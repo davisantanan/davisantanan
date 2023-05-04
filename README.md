@@ -8,7 +8,7 @@
     </div>
   </div>
   
-  ### Tecnlogias que utilizo🥇
+  ### Tecnologias que utilizo🥇
   
   <div style="display: inline_block"><br>
     <img align="center" alt="Davi-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
