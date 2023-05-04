@@ -3,7 +3,7 @@
 
 
 
-  <div style="display:flex; flex-wrap: wrap;">
+  <div style="display:inline_block;">
   <div style="flex: 50%; padding: 15px;">
     <img src="https://github-readme-stats.vercel.app/api?username=davisantanan&theme=midnight-purple&show_icons=true" alt="Davi GitHub stats">
   </div>
