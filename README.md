@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=712f90&height=120&section=header&text=Davi+Santana"/>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=712f90&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem-vindo!+✌✌✌;Sou+desenvolvedor+front-end;Fique+à+vontade+para+conhecer+meus+repositórios." alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com/?color=712f90&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem-vindo!+✌✌✌;Sou+desenvolvedor+Web;Fique+à+vontade+para+conhecer+meus+repositórios." alt="Typing SVG">
 </div>
 
   <div align="center" style="display:flex;">
