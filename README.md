@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=712f90&height=120&section=header&text=Davi+Santana"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C552FA&height=120&section=header&text=Davi+Santana"/>
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?color=712f90&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem-vindo!+✌✌✌;Sou+desenvolvedor+Web;Fique+à+vontade+para+conhecer+meus+repositórios." alt="Typing SVG">
@@ -6,10 +6,14 @@
 
   <div align="center" style="display:flex;">
     <div style="flex: 50%; padding: 5px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=davisantanan&theme=midnight-purple&show_icons=true" alt="Davi GitHub stats">
+      <img src="https://streak-stats.demolab.com?user=davisantanan&theme=midnight-purple&date_format=j%20M%5B%20Y%5D&type=png)](https://git.io/streak-stats" alt="Davi GitHub stats">
+      <br/>
+      <br/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davisantanan&layout=compact&theme=midnight-purple" alt="Top Langs">
     </div>
   </div>
+  
+  <div align="center">
   
   ### Tecnologias que mais utilizo🥇
   
@@ -20,6 +24,7 @@
     <img align="center" alt="Davi-Ts" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="Davi-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Davi-Node" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  </div>
   </div>
   
   ##
